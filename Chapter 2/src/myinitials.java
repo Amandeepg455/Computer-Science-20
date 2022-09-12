@@ -2,7 +2,7 @@
 public class myinitials {
 
 	public static void main(String[] args) {
-	 System.out.println("AMP");
+	 System.out.println("ASG");
 
 	}
 
